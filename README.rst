@@ -1,4 +1,4 @@
-Django reCAPTCHA
+Django App for recaptcha
 ================
 **Django reCAPTCHA form field/widget integration app.**
 
@@ -25,7 +25,7 @@ Installation
 
 #. `Sign up for reCAPTCHA <https://www.google.com/recaptcha/intro/index.html>`_.
 
-#. Install with ``pip install django-recaptcha``.
+#. Clone this repo.
 
 #. Add ``'captcha'`` to your ``INSTALLED_APPS`` setting.
 
