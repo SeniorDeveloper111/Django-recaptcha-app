@@ -2,20 +2,6 @@ Django reCAPTCHA
 ================
 **Django reCAPTCHA form field/widget integration app.**
 
-.. image:: https://travis-ci.org/praekelt/django-recaptcha.svg?branch=develop
-    :target: https://travis-ci.org/praekelt/django-recaptcha
-.. image:: https://coveralls.io/repos/github/praekelt/django-recaptcha/badge.svg?branch=develop
-    :target: https://coveralls.io/github/praekelt/django-recaptcha?branch=develop
-.. image:: https://badge.fury.io/py/django-recaptcha.svg
-    :target: https://badge.fury.io/py/django-recaptcha
-.. image:: https://img.shields.io/pypi/pyversions/django-recaptcha.svg
-    :target: https://pypi.python.org/pypi/django-recaptcha
-.. image:: https://img.shields.io/pypi/djversions/django-recaptcha.svg
-    :target: https://pypi.python.org/pypi/django-recaptcha
-
-.. contents:: Contents
-    :depth: 5
-
 .. note::
    django-recaptcha supports Google reCAPTCHA V2 - Checkbox (Default), Google reCAPTCHA V2 - Invisible and Google reCAPTCHA V3 please look at the widgets section for more information.
 
